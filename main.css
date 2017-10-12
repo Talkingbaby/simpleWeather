@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-size: 3.5rem;
+    margin-top: 2rem;
+}
+#weather-box {
+    margin-top: 2rem;
+}
+#weather-box .temp-box,
+#weather-box .current-temp,
+#weather-box .temp-max,
+#weather-box .temp-min,
+#weather-box button {
+    margin-top: 1.5rem;
+}
+.city {
+    font-size: 3rem;
+}
+.temp-box {
+    font-size: 1.5rem;
+}
+.weather-type {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
+.weather-icon {
+    width: 5rem;
+    margin-top: 0.5rem;
+}
+.inspired {
+    margin-top: 4rem;
+}
